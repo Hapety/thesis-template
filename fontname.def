@@ -1,0 +1,17 @@
+\ProvidesFile{fontname.def}
+\setCJKmainfont[BoldFont={[wqy-microhei.ttc]},ItalicFont={[wqy-microhei.ttc]}]{[wqy-microhei.ttc]}
+\setCJKsansfont{[wqy-microhei.ttc]}
+\setCJKmonofont{[wqy-microhei.ttc]}
+\setCJKfamilyfont{zhsong}{[wqy-microhei.ttc]}
+\setCJKfamilyfont{zhhei}{[wqy-microhei.ttc]}
+\setCJKfamilyfont{zhkai}{[wqy-microhei.ttc]}
+\setCJKfamilyfont{zhfs}{[wqy-microhei.ttc]}
+\setCJKfamilyfont{zhli}{[wqy-microhei.ttc]}
+\setCJKfamilyfont{zhyou}{[wqy-microhei.ttc]}
+
+\newcommand*{\songti}{\CJKfamily{zhsong}}
+\newcommand*{\heiti}{\CJKfamily{zhhei}}
+\newcommand*{\kaishu}{\CJKfamily{zhkai}}
+\newcommand*{\fangsong}{\CJKfamily{zhfs}}
+\newcommand*{\lishu}{\CJKfamily{zhli}}
+\newcommand*{\youyuan}{\CJKfamily{zhyou}}

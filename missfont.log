@@ -1,0 +1,7 @@
+mktexpk --mfmode ljfour --bdpi 600 --mag 2+366/600 --dpi 1566 unisong6e
+mktexpk --mfmode ljfour --bdpi 600 --mag 2+366/600 --dpi 1566 unisong53
+mktexpk --mfmode ljfour --bdpi 600 --mag 2+366/600 --dpi 1566 unisong59
+mktexpk --mfmode ljfour --bdpi 600 --mag 2+366/600 --dpi 1566 unisong5b
+mktexpk --mfmode ljfour --bdpi 600 --mag 3+368/600 --dpi 2168 unisong7e
+mktexpk --mfmode / --bdpi 600 --mag 1+243/600 --dpi 843 unisong62
+mktexpk --mfmode / --bdpi 600 --mag 1+243/600 --dpi 843 unisong62
